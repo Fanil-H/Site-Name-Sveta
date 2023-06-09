@@ -1,0 +1,112 @@
+ .material-symbols-outlined {
+ font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;} 
+/* icons ^ */
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+.big-box{
+  width: 100%;
+}
+.white{
+   width: 100%;
+  background-color: white;
+}
+.laa{
+  display: table;
+  width: 70%;
+  margin: auto;
+}
+.white h2{
+  font-size: 30px;
+   float: left;
+   text-transform: uppercase;
+   color: #f5500f;
+}
+.reg{
+  float: right;
+}
+.reg div{
+  margin-top: 10px;
+  float: left;
+}
+.reg span{
+  margin-top: 14px;
+ padding: 9px;
+  color: #f5500f;
+} 
+.reg i{
+  padding-right: 5px;
+  line-height: 9;
+  font-size: 10px;
+}
+.reg button{
+  margin-top: 20px;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  color: rgb(255, 255, 255);
+  border: none;
+  background-color:#f5500f ;
+}
+.black{
+   width: 100%;
+  background-color: black;
+}
+.black ul{
+  float: left;
+  padding: 10px;
+  font-size: 16px;
+  text-transform: uppercase;
+  list-style: none;
+  color: white;
+}
+.black li{
+  float: left;
+  margin-right: 20px;
+}
+.black .oli{
+  float: right;
+}
+.oli span{
+  color: white;
+}
+.oli form{
+  float: right;
+}
+.oli div{
+  float: left;
+ margin-top:24px;
+}
+.oli input{
+  padding: 7px;
+  margin-top: 21px;
+}
+.box_text{ 
+  padding:0 15%;
+} 
+.box_text ul{
+  padding-inline-start: initial;
+  margin: 0 17px;
+}
+  /* box foto */
+.foto{
+ padding: 0 15%;
+ display:table;
+}
+.foto i{
+  font-size: 13px;
+  padding-right: 10px;
+  width: 14%;
+    float: left;
+}
+.foto p{
+  margin: 0;
+}
+.foto h3{
+    text-transform: uppercase;
+    color: #f5500f;
+}   
